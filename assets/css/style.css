@@ -199,7 +199,7 @@ hr {
 
 #times div {
     color: #fafafa;
-    background-color: rgba (0, 0, 0, .6);
+    background-color: rgba(0, 0, 0, .6);
     width: 20%;
     height: 300px;
     float: left;
@@ -212,4 +212,25 @@ hr {
 
 #times h2 {
     color: #fafafa;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
